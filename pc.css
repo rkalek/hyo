@@ -93,9 +93,9 @@ background: transparent;
 
 animation: snow 20s linear infinite;
 
- background-image:url('https://rkalek.github.io/sirasoni26/bg1.png'),
- url("https://rkalek.github.io/sirasoni26/bg2.png"),
- url("https://rkalek.github.io/sirasoni26/bg3.png");
+ background-image:url('https://rkalek.github.io/hyo/hyo1.png'),
+ url("https://rkalek.github.io/hyo/hyo2.png"),
+ url("https://rkalek.github.io/hyo/hyo3.png");
 }
 @keyframes snow {
 
