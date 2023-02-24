@@ -83,16 +83,7 @@ animation: gradient 15s ease infinite;
 
 
 
-@keyframes gradient {
-0% {
-background-position: 0% 50%;
-}
-50% {
-background-position: 100% 50%;
-}
-100% {
-background-position: 0% 50%;
-}
+
 
 body {
    
@@ -111,7 +102,16 @@ animation: snow 20s linear infinite;
 100% {background-position: 500px 1000px, 400px 400px, 300px 300px;}
 
 }
-
+@keyframes gradient {
+0% {
+background-position: 0% 50%;
+}
+50% {
+background-position: 100% 50%;
+}
+100% {
+background-position: 0% 50%;
+}
 
 
 @font-face {
