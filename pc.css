@@ -227,7 +227,7 @@ border: 2px SOLID #FFDEE9;
 
 header #right-search-form>input[type=text] {
 
-    border: 3px solid #FFDEE9; /* 검색창 테두리 색 */
+    border: 3px solid ##ff8791; /* 검색창 테두리 색 */
 
     border-radius: 15px;
 
@@ -241,7 +241,7 @@ header #right-search-form>input[type=text] {
 
 header #right-search-form>#right-search-btn {
 
-    color: #FFDEE9; /* 검색창 옆 돋보기 색 */
+    color: ##ff8791; /* 검색창 옆 돋보기 색 */
 
 }
 
@@ -285,9 +285,9 @@ header #right-search-form>#right-search-btn {
 
 header #header-bar>.row {
 
-    border-top: 5px solid #FFDEE9 !important; /* 광고 배너 테두리 색 */
+    border-top: 5px solid ##ff8791 !important; /* 광고 배너 테두리 색 */
 
-    border: 1px solid #FFDEE9; /* 광고 배너 테두리 색 */
+    border: 1px solid ##ff8791; /* 광고 배너 테두리 색 */
 
 }
 
